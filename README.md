@@ -105,4 +105,4 @@ const button = new ButtonBuilder()
 Estos son solo ejemplos ilustrativos de los cambios más destacados. Consulta la documentación oficial de Discord.js para obtener información más detallada y actualizada sobre las diferencias entre versiones.
 ```
 
-Puedes copiar y pegar este contenido en un archivo README.md en tu repositorio para tener una guía de los cambios y ejemplos en las diferentes versiones de Discord.js. Recuerda que los ejemplos son simplificados y pueden necesitar ser adaptados a tu propio código y contexto.
+Atentamente Rex Dev.
